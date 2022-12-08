@@ -35,7 +35,7 @@ var questionList = [{
   question: "what is favorite dish?",
   answer: "puranpoli",
 }];
-
+//storing data of high scorers
 var highScore = [{
   Name: "Shweta",
   score: 5
